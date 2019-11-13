@@ -43,7 +43,7 @@ export default class App extends React.Component {
     data:[
       {
         id: 0,
-        name: "Mohammad",
+        name: "Mohammad22",
         title: "Hey",
         content: "We will have a night meeting today",
         pic: "Habeeb.png",
